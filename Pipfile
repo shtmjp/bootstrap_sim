@@ -12,6 +12,8 @@ matplotlib = "*"
 seaborn = "*"
 japanize-matplotlib = "*"
 tqdm = "*"
+black = {extras = ["jupyter"], version = "*"}
+wandb = "*"
 
 [dev-packages]
 ipykernel = "*"
